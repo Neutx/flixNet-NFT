@@ -24,6 +24,7 @@ html {
 }
 
 body {
+  background: url(./Desktop\ -\ 22.png);
   background-color: hsl(203, 17%, 26%);
   color: hsla(215, 20%, 65%, 1);
   font-size: 1.6rem;
@@ -172,6 +173,7 @@ color: black; }
 
 .header .logo { display: none; }
 
+
 .header {
   position: absolute;
   top: 0;
@@ -233,6 +235,7 @@ color: black; }
 /* Hero */
 
 .hero {
+  
   position: relative;
   --section-padding: 180px 64px;
   text-align: center;
