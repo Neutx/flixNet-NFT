@@ -24,7 +24,7 @@ html {
 }
 
 body {
-  background-color: rgb(34, 41, 15);
+  background-color: hsl(203, 17%, 26%);
   color: hsla(215, 20%, 65%, 1);
   font-size: 1.6rem;
   line-height: 1.5;
