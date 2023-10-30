@@ -63,12 +63,6 @@ We welcome contributions in the form of bug fixes, new features, or improvements
 - Test your changes thoroughly before submitting a pull request.
 - Be respectful and professional in your communications with other contributors.
 
-## `Project Images`
-
-Here are some screenshots of our FLIX NFT project:
-
-![Flix NFT Screenshot 1](/assets/images/pic1.png)
-![Flix NFT Toe Screenshot 2](/assets/images/pic2.jpg)
 
 ## `Contributors`
 
